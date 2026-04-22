@@ -3,7 +3,7 @@
 The scripts in this repository process corporate reports from Indian listed companies.
 Due to GitHub file size limits, the datasets are hosted externally.
 
-## BRSR Reports (FY 2024–25,FY 2025-26)
+## BRSR Reports (FY 2024–25, 2025-26)
 
 Kaggle Dataset:
 [https://www.kaggle.com/datasets/meghanakadari/indian-listed-companies-brsr-reports-fy-202324
