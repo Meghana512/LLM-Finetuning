@@ -18,7 +18,9 @@ The scripts generate **CSV datasets** that can be used for further analysis.
 ## Dataset
 
 The scripts process large collections of corporate report PDFs (BRSR Reports and Annual Reports).
-Due to GitHub file size limits, the datasets are not included in this repository(Kaggle links for those datasets were added) .
+Datasets include Annual Reports for the year 2022-23,BRSR Reports for the years 2024-25,2025-26 and Enissions data for the year 2024-25.
+Due to GitHub file size limits, the datasets are not included in this repository.
+Kaggle links for those datasets were added.
 
 ## Author
 
