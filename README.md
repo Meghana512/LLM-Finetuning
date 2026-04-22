@@ -22,4 +22,4 @@ Due to GitHub file size limits, the datasets are not included in this repository
 
 ## Author
 
-Meghana Kadari,Vaibhav Meena
+Meghana Kadari
