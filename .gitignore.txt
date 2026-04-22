@@ -1,0 +1,15 @@
+# Ignore large datasets
+*.zip
+*.pdf
+
+# Ignore dataset folders
+Indian_BRSR_Reports_2024_25/
+Indian_BRSR_Reports_2025_26/
+Annual_Report_2022_23
+
+# Python cache
+__pycache__/
+*.pyc
+
+# System files
+.DS_Store
