@@ -1,4 +1,4 @@
-# LLM Finetuning – Corporate Report Processing
+# LLM Finetuning
 
 ## Overview
 
