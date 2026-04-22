@@ -9,17 +9,17 @@ The project works with **BRSR reports and Annual Reports (PDF format)** and perf
 The main functionalities include:
 
 * **MD&A Extraction** – extracting the Management Discussion & Analysis section from annual reports
-* **ESG Text Extraction** – extracting ESG related disclosures from corporate reports
+* **ESG Text Extraction** – extracting ESG related disclosures from annual and BRSR reports
 * **Word Count Analysis** – computing word statistics for different sections of BRSR reports
-* **Sector Classification** – identifying the sector of companies using information from annual reports
+* **Sector Classification** – identifying the sector of companies using information from annual and BRSR reports
 
-The scripts generate **CSV datasets** that can be used for further analysis or machine learning tasks.
+The scripts generate **CSV datasets** that can be used for further analysis.
 
 ## Dataset
 
 The scripts process large collections of corporate report PDFs (BRSR Reports and Annual Reports).
-Due to GitHub file size limits, the datasets are not included in this repository.
+Due to GitHub file size limits, the datasets are not included in this repository(Kaggle links for those datasets were added) .
 
 ## Author
 
-Meghana Kadari
+Meghana Kadari,Vaibhav Meena
